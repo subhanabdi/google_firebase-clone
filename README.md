@@ -4,7 +4,7 @@ Google Clone created in React JS for studying purposes.
 
 ## Demo
 
-[Demo Link](localhost:3000)
+[Demo Link](https://clone-6843c.web.app/)
 
 
 ![Image of Website](https://github.com/subhanabdi/google-clone/blob/master/google-demo.gif)
